@@ -1,9 +1,11 @@
-naist-thesis-tmpl-en
+ku-is-thesis-tmpl-en
 ===============================
 
-A modern LaTeX template for your doctoral dissertation or master's thesis of NAIST Graduate School of Information Science.
+An unofficial LaTeX template for your doctoral dissertation of KU Graduate School of Science.
+This is a modified version of [naist-thesis-tmpl-en](https://github.com/kmiya/naist-thesis-tmpl-en).
 
-(Japanese version is [here](https://github.com/kmiya/naist-thesis-tmpl))
+## Notice!
+### 2016-10-06 This template will be suddenly updated because of my dissertation is in progress.
 
 ## Features
 The template:
