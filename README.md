@@ -5,7 +5,7 @@ An unofficial LaTeX template for your doctoral dissertation of KU Graduate Schoo
 This is a modified version of [naist-thesis-tmpl-en](https://github.com/kmiya/naist-thesis-tmpl-en).
 
 ## Notice!
-### 2016-10-06 This template will be suddenly updated because of my dissertation is in progress.
+- 2016-10-06 This template will be suddenly updated because of my dissertation is in progress.
 
 ## Features
 The template:
